@@ -1,7 +1,8 @@
 repo_name: mollypi/Smart-Mirror
 report_id: 1652c50b5f09b8caa26c128fa5cffbca
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:32:12+00:00'
+timestamp: '2024-01-05T08:41:54+00:00'
 requested_by: atainter
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/Smart-Mirror
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/Smart-Mirror
   detection_source: Repo Metadata
 - name: Pillow
   description: Python Imaging Library
@@ -34,6 +37,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/mollypi/Smart-Mirror/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: atainter
   last_updated_on: 2016-09-04 20:35:49.000000000 Z
